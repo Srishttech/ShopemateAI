@@ -87,11 +87,11 @@ The agent **chains tools automatically** when needed — e.g. for *"cheaper alte
 ---
 ## RUNNING INSTRUCTION IN CLOUD
 ```
- git clone https://github.com/Srishttech/ShopemateAI.git
+git clone https://github.com/Srishttech/ShopemateAI.git
 nano .env # store your API KEY here in the formal GROQ_API_KEY= YOUR_API
 chmod +x run.sh
 ./run.sh
-
+```
 ## 📂 Folder Structure
 
 ```
