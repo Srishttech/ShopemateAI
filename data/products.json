@@ -1,0 +1,122 @@
+[
+  {
+    "id": "P101",
+    "name": "Nova Sprint Running Shoes",
+    "category": "Footwear",
+    "brand": "Nova",
+    "price": 2499,
+    "description": "Lightweight running shoes with breathable mesh upper, ideal for daily runs.",
+    "rating": 4.3,
+    "stock": 25
+  },
+  {
+    "id": "P102",
+    "name": "Trailblaze Pro Running Shoes",
+    "category": "Footwear",
+    "brand": "Trailblaze",
+    "price": 3499,
+    "description": "Cushioned running shoes with shock-absorbing sole, built for long distance running.",
+    "rating": 4.5,
+    "stock": 12
+  },
+  {
+    "id": "P103",
+    "name": "AirGlide Running Shoes",
+    "category": "Footwear",
+    "brand": "AirGlide",
+    "price": 1899,
+    "description": "Affordable everyday running shoes with breathable knit fabric and rubber outsole.",
+    "rating": 4.0,
+    "stock": 40
+  },
+  {
+    "id": "P104",
+    "name": "Zoom Comfort Walking Shoes",
+    "category": "Footwear",
+    "brand": "Zoom",
+    "price": 1599,
+    "description": "Comfortable walking shoes with memory foam insole for all day wear.",
+    "rating": 4.1,
+    "stock": 30
+  },
+  {
+    "id": "P201",
+    "name": "BeatPods X1 Wireless Earbuds",
+    "category": "Electronics",
+    "brand": "BeatPods",
+    "price": 1999,
+    "description": "True wireless earbuds with 24 hour battery life and deep bass sound.",
+    "rating": 4.4,
+    "stock": 50
+  },
+  {
+    "id": "P202",
+    "name": "SoundWave Air Earbuds",
+    "category": "Electronics",
+    "brand": "SoundWave",
+    "price": 2799,
+    "description": "Premium wireless earbuds with active noise cancellation and clear calls.",
+    "rating": 4.6,
+    "stock": 18
+  },
+  {
+    "id": "P203",
+    "name": "PulseBuds Lite",
+    "category": "Electronics",
+    "brand": "Pulse",
+    "price": 999,
+    "description": "Budget friendly wireless earbuds with decent sound quality for everyday use.",
+    "rating": 3.8,
+    "stock": 60
+  },
+  {
+    "id": "P301",
+    "name": "Quantum Smartwatch S2",
+    "category": "Electronics",
+    "brand": "Quantum",
+    "price": 3999,
+    "description": "Fitness smartwatch with heart rate monitor, sleep tracking and AMOLED display.",
+    "rating": 4.2,
+    "stock": 20
+  },
+  {
+    "id": "P401",
+    "name": "Urban Backpack 25L",
+    "category": "Bags",
+    "brand": "Urban",
+    "price": 1299,
+    "description": "Water resistant laptop backpack with multiple compartments and USB port.",
+    "rating": 4.3,
+    "stock": 35
+  },
+  {
+    "id": "P501",
+    "name": "ChefPro Non-Stick Pan",
+    "category": "Home & Kitchen",
+    "brand": "ChefPro",
+    "price": 899,
+    "description": "Durable non-stick frying pan, induction compatible, easy to clean.",
+    "rating": 4.0,
+    "stock": 45
+  },
+  {
+    "id": "P601",
+    "name": "LumaGlow Desk Lamp",
+    "category": "Home & Kitchen",
+    "brand": "LumaGlow",
+    "price": 799,
+    "description": "LED desk lamp with adjustable brightness levels and USB charging port.",
+    "rating": 4.1,
+    "stock": 28
+  },
+  {
+    "id": "P701",
+    "name": "FitFlex Yoga Mat",
+    "category": "Fitness",
+    "brand": "FitFlex",
+    "price": 699,
+    "description": "Non-slip yoga mat with extra cushioning, 6mm thick, easy to carry.",
+    "rating": 4.5,
+    "stock": 55
+  }
+]

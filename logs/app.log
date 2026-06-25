@@ -1,0 +1,4 @@
+2026-06-25 14:58:56,360 | agent.graph | INFO | USER_QUESTION -> hi
+2026-06-25 14:58:56,944 | agent.graph | INFO | FINAL_RESPONSE -> Hello. How can I help you with your shopping today? Are you looking for something in particular or would you like some recommendations?
+2026-06-25 14:59:02,940 | agent.graph | INFO | USER_QUESTION -> nihao
+2026-06-25 14:59:03,362 | agent.graph | INFO | FINAL_RESPONSE -> Nihao. How can I assist you today? Are you looking for a specific product or need help with an order?

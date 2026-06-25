@@ -1,0 +1,58 @@
+[
+  {
+    "order_id": "ORD1001",
+    "customer_name": "Aarav Sharma",
+    "items": [
+      {"product_id": "P101", "name": "Nova Sprint Running Shoes", "qty": 1, "price": 2499}
+    ],
+    "status": "Shipped",
+    "order_date": "2026-06-10",
+    "expected_delivery": "2026-06-26",
+    "total": 2499
+  },
+  {
+    "order_id": "ORD1002",
+    "customer_name": "Priya Mehta",
+    "items": [
+      {"product_id": "P201", "name": "BeatPods X1 Wireless Earbuds", "qty": 1, "price": 1999}
+    ],
+    "status": "Delivered",
+    "order_date": "2026-06-01",
+    "expected_delivery": "2026-06-06",
+    "total": 1999
+  },
+  {
+    "order_id": "ORD1003",
+    "customer_name": "Rohan Gupta",
+    "items": [
+      {"product_id": "P301", "name": "Quantum Smartwatch S2", "qty": 1, "price": 3999},
+      {"product_id": "P701", "name": "FitFlex Yoga Mat", "qty": 1, "price": 699}
+    ],
+    "status": "Processing",
+    "order_date": "2026-06-20",
+    "expected_delivery": "2026-06-30",
+    "total": 4698
+  },
+  {
+    "order_id": "ORD1004",
+    "customer_name": "Srishti Jain",
+    "items": [
+      {"product_id": "P102", "name": "Trailblaze Pro Running Shoes", "qty": 1, "price": 3499}
+    ],
+    "status": "Out for Delivery",
+    "order_date": "2026-06-22",
+    "expected_delivery": "2026-06-25",
+    "total": 3499
+  },
+  {
+    "order_id": "ORD1005",
+    "customer_name": "Kabir Singh",
+    "items": [
+      {"product_id": "P401", "name": "Urban Backpack 25L", "qty": 2, "price": 1299}
+    ],
+    "status": "Cancelled",
+    "order_date": "2026-05-28",
+    "expected_delivery": "-",
+    "total": 2598
+  }
+]
