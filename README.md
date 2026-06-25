@@ -85,6 +85,12 @@ Tools available to the agent:
 The agent **chains tools automatically** when needed — e.g. for *"cheaper alternative to the shoes I ordered"*, it first calls `get_order` to discover what was purchased, then calls `search_products` with the relevant category/price to find a cheaper match.
 
 ---
+## RUNNING INSTRUCTION IN CLOUD
+```
+ git clone https://github.com/Srishttech/ShopemateAI.git
+nano .env # store your API KEY here in the formal GROQ_API_KEY= YOUR_API
+chmod +x run.sh
+./run.sh
 
 ## 📂 Folder Structure
 
